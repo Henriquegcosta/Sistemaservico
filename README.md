@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-<img src="Imagem.png" width="800" heigth="700">
+<img src="Imagem.PNG" width="800" heigth="700">
 
 
 
