@@ -155,15 +155,15 @@ Link do projeto: [https://sistemaservico.vercel.app/](https://sistemaservico.ver
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/Henriquegcosta/Sistemaservico/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Henriquegcosta/Sistemaservico.svg?style=for-the-badge
+[forks-url]: https://github.com/Henriquegcosta/Sistemaservico/network/members
+[stars-shield]: https://img.shields.io/github/stars/Henriquegcosta/Sistemaservico.svg?style=for-the-badge
+[stars-url]: https://github.com/Henriquegcosta/Sistemaservico/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Henriquegcosta/Sistemaservico.svg?style=for-the-badge
+[issues-url]: https://github.com/Henriquegcosta/Sistemaservico/issues
+[license-shield]: https://img.shields.io/github/license/Henriquegcosta/Sistemaservico.svg?style=for-the-badge
+[license-url]: https://github.com/Henriquegcosta/Sistemaservico/blob/master/LICENSE.txt
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/heriquegc/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
